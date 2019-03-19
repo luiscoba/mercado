@@ -1,2 +1,2 @@
 # mercado
-ultimo proyecto, para hacer compras en el mercado, utiliza REST
+Actualmente estoy empezando este proyecto, para hacer compras en el mercado, utiliza REST
